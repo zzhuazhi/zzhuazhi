@@ -29,8 +29,8 @@ Huazhi Machinery is a professional manufacturer of metal shredders and scrap ste
 
 If you are interested in our products or would like to have a technical exchange, please feel free to contact me through the following ways:
 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-+8613073757790-26A5E4?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/8619139765140?text=Hello%20HuaZhi)
-[![Phone](https://img.shields.io/badge/Phone-+8619139765140-261616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzhuazhi)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-+8619139765140-26A5E4?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/8619139765140?text=Hello%20HuaZhi)
+[![Phone](https://img.shields.io/badge/Phone-+8613073757790-261616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzhuazhi)
 [![GitHub](https://img.shields.io/badge/Email-huazhi@jxxss.cn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzhuazhi)
 
 </div>
